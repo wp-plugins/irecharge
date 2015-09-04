@@ -2,9 +2,9 @@
 
 Tags: iRecharge, mobile top up, mtn, etisalat, glo, visafone, airtel
 Requires at least: 3.0.1
-Authors: istrategytech ,infostrategy technology
-Contributors:Infostrategy Technology,istrategytech
-Tested up to: 4.1
+Authors: istrategytech ,infostrategy technology,Layi,Idris
+Contributors:Infostrategy Technology,istrategytech,Layi
+Tested up to: 4.3
 Stable tag: 4.3
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -27,7 +27,7 @@ e.g.
 1. Upload `iRecharge_plugin.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go through the Settings and select 'iRecharge Vendor Set' to set your Vendor ID, this is displayed on your profile at irecharge.com.ng/profile
-4. Simply go to Appearance , Select Widget and Add the recharge Widget to your Widget area.
+4. put [irecharge] on any page area you want the plugin to appear.
 
 == Frequently Asked Questions ==
 
